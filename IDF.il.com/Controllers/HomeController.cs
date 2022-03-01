@@ -9,7 +9,7 @@ namespace IDF.il.com.Controllers
     public class HomeController : Controller
     {
         // GET: Home
-        public ActionResult Index()
+        public ActionResult Home()
         {
             return View();
         }
