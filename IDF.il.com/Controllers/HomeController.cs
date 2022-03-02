@@ -13,5 +13,14 @@ namespace IDF.il.com.Controllers
         {
             return View();
         }
+        public ActionResult History()
+        {
+            return View();
+        }
+        public ActionResult Life()
+        {
+            return View();
+
+        }
     }
 }

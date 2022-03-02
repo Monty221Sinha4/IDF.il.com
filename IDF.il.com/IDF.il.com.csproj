@@ -115,6 +115,9 @@
     <Content Include="Images\IDF 38.jpg" />
     <Content Include="Images\IDF 912.jpg" />
     <Content Include="Images\IDF_New_Logo.png" />
+    <Content Include="Images\Isaerl 1.jpg" />
+    <Content Include="Images\Juda.jpg" />
+    <Content Include="Images\Six Day war.jpg" />
     <Content Include="Images\Women 1.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -166,6 +169,7 @@
     <Content Include="Scripts\bootstrap.bundle.js.map" />
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
+    <Content Include="Views\Home\History.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
