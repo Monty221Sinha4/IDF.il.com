@@ -22,5 +22,9 @@ namespace IDF.il.com.Controllers
             return View();
 
         }
+        public ActionResult OurMission()
+        {
+            return View();
+        }
     }
 }

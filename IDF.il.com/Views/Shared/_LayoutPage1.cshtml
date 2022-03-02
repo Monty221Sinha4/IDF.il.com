@@ -11,7 +11,14 @@
     <div class="col-md-6">
 
         <img src="~/Images/IDF_New_Logo.png"  width="200" height="200"/>
+        <h6>Israeli Defense Force</h6>
     </div>
+    <nav style="color:blue">
+        @Html.ActionLink("Home","Home","Home")
+        @Html.ActionLink("History","History","Home")
+        @Html.ActionLink("Life","Life","Home")
+        @Html.ActionLink("OurMission","OurMission","Home")
+    </nav>
     <div>
         @RenderBody()
     </div>

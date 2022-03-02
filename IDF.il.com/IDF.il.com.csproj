@@ -114,6 +114,7 @@
     <Content Include="Images\IDF 3.jpg" />
     <Content Include="Images\IDF 38.jpg" />
     <Content Include="Images\IDF 912.jpg" />
+    <Content Include="Images\IDF Web 3.jpg" />
     <Content Include="Images\IDF_New_Logo.png" />
     <Content Include="Images\Isaerl 1.jpg" />
     <Content Include="Images\Juda.jpg" />
@@ -170,6 +171,8 @@
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
     <Content Include="Views\Home\History.cshtml" />
+    <Content Include="Views\Home\Life.cshtml" />
+    <Content Include="Views\Home\OurMission.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
